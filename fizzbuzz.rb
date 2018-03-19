@@ -7,5 +7,5 @@ def fizzbuzz(int)
   puts "fizzbuzz"
   else
   puts " "
-end
+  end
 end
